@@ -2,9 +2,9 @@
 
 Bachelor’s degree in information systems, postgraduate in database systems.
 
-As a backend software engineer, I work on systems modeling and planning to meet business requests. I have great
-experiences working with choreographed event-driven microservices, and I love designing systems applying general
-concepts based on Domain Driven Design, clean and hexagonal architecture.
+As a backend software engineer, I work on systems modeling and planning to meet business
+requests. I have extensive experience with choreographed event-driven microservices and love
+designing systems using general.
 
 ## Languages & Tools 🛠️
 
@@ -35,6 +35,6 @@ concepts based on Domain Driven Design, clean and hexagonal architecture.
 ## Find me 🔍
 
 [![Medium](https://img.shields.io/badge/-05122A?logo=medium&logoColor=white)](https://medium.com/@gustavo.freze)
-[![Linkedin](https://img.shields.io/badge/-05122A?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavofreze)
+[![Linkedin](https://img.shields.io/badge/-05122A?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-freze)
 [![DockerHub](https://img.shields.io/badge/-05122A?logo=docker&logoColor=white)](https://hub.docker.com/u/gustavofreze)
 [![StackOverflow](https://img.shields.io/badge/-05122A?logo=stackoverflow&logoColor=white)](https://pt.stackoverflow.com/users/280129/gustavo-freze)
