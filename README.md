@@ -20,7 +20,7 @@ designing systems using general.
 [![MongoDB](https://img.shields.io/badge/-05122A?logo=mongodb&logoColor=white)](https://www.mongodb.com)
 [![PostgreSQL](https://img.shields.io/badge/-05122A?logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
-[![AWS](https://img.shields.io/badge/-05122A?logo=amazonaws&logoColor=white)](https://aws.amazon.com)
+[![AWS](https://img.shields.io/badge/-05122A?logo=amazonwebservices&logoColor=white)](https://aws.amazon.com)
 [![Git](https://img.shields.io/badge/-05122A?logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/-05122A?logo=github&logoColor=white)](https://github.com)
 [![GitHub action](https://img.shields.io/badge/-05122A?logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
