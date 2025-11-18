@@ -1,6 +1,6 @@
 ## Hi, I'm Gustavo 💻
 
-I'm a Software Engineer with 6+ years of experience designing and maintaining scalable, event-driven systems in fintech
+I'm a Software Engineer with 8+ years of experience designing and maintaining scalable, event-driven systems in fintech
 and payment environments.
 
 Throughout my career at Visa, PagSeguro International, and Gazin, I’ve specialized in microservices, data pipelines, and
