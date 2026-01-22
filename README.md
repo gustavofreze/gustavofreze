@@ -6,9 +6,6 @@ and payment environments.
 Throughout my career at Visa, PagSeguro International, and Gazin, I’ve specialized in microservices, data pipelines, and
 distributed architectures using PHP, Kotlin, Python, and Go.
 
-My work focuses on improving system reliability, performance, and observability, resulting in measurable outcomes such
-as 60% faster report generation, 45% fewer production incidents, and 75% performance gains in critical services.
-
 Passionate about clean architecture, DDD, and continuous improvement.
 
 ## Tech stack 🛠️
